@@ -1,4 +1,4 @@
-import { Fruit, fruits } from "./fruits";
+import { Fruit } from "./fruits";
 
 export const getFruit = (
   allFruits: Fruit[],
